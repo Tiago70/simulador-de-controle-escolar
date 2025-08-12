@@ -97,7 +97,7 @@ public class view extends JFrame {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setSize(678, 410);
 		getContentPane().setLayout(new BorderLayout());
-		setIconImage(Toolkit.getDefaultToolkit().getImage("src/GUI/gato.jpg"));
+		setIconImage(Toolkit.getDefaultToolkit().getImage("GUI/gato.jpg"));
 		setLocationRelativeTo(null);
 		setResizable(false);
 
